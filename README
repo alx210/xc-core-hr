@@ -1,0 +1,11 @@
+This Xcursor theme contains 24 and 32 pixel pointer sets built upon the look of
+X11 core cursors. These should work well with screens around 100 to 150 DPI.
+
+Running ./build.sh [name] (name defaults to core-hr) will generate the cursor
+theme directory, which then can be copied to wherever the host system wants
+cursor themes to reside in (usually /usr/share/pixmaps or /usr/share/icons).
+
+Finally, the Xcursor.theme resource must be set to the theme name and the
+Xcursor.size to either 24 or 32.
+
+See also: xcursorgen(1) Xcursor(3)
