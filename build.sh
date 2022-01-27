@@ -32,9 +32,16 @@ ln -s $tn/question_arrow $tn/5c6cd98b3f3ebcb1f9c7f1c204630408
 ln -s $tn/arrow $tn/1081e37283d90000800003c07f3ef6bf
 ln -s $tn/arrow $tn/3085a0e285430894940527032f8b26df
 ln -s $tn/hand2 $tn/9d800788f1b08800ae810202380a0822
-ln -s $tn/arrow $tn/4498f0e0c1937ffe01fd06f973665830
-ln -s $tn/arrow $tn/9081237383d90e509aa00f00170e968f
+ln -s $tn/hand2 $tn/e29285e634086352946a0e7090d73106
+ln -s $tn/hand2 $tn/pointer
+ln -s $tn/closedhand $tn/9081237383d90e509aa00f00170e968f
+ln -s $tn/closedhand $tn/4498f0e0c1937ffe01fd06f973665830
+ln -s $tn/closedhand $tn/fcf21c00b30f7e3f83fe0dfd12e71cff
+ln -s $tn/closedhand $tn/move
+ln -s $tn/closedhand $tn/dnd-move
+ln -s $tn/closedhand $tn/dnd-none
 ln -s $tn/xterm $tn/ibeam 
 ln -s $tn/watch $tn/wait
 ln -s $tn/question_arrow $tn/help
 ln -s $tn/left_ptr_watch $tn/half-busy
+
