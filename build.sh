@@ -24,6 +24,7 @@ ln -s sb_v_double_arrow $tn/double_arrow
 # These names were snarfed from other cursor themes. Apparently
 # some GUI toolkits use these. I don't know whether this is right, or
 # where to find any proper info on this though
+ln -s left_ptr_watch $tn/progress
 ln -s left_ptr_watch $tn/00000000000000020006000e7e9ffc3f
 ln -s left_ptr_watch $tn/08e8e1c95fe2fc01f976f1e063a24ccd
 ln -s left_ptr_watch $tn/3ecb610c1bf2410f44200f48c40d3599
